@@ -1,0 +1,19 @@
+﻿  Source.cpp
+c:\users\rishi\projects\console-cpp-database\consoleapplication1\source.cpp(242): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rishi\projects\console-cpp-database\consoleapplication1\source.cpp(257): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+c:\users\rishi\projects\console-cpp-database\consoleapplication1\source.cpp(434): warning C4102: 'loading': unreferenced label
+c:\users\rishi\projects\console-cpp-database\consoleapplication1\source.cpp(539): warning C4129: 'C': unrecognized character escape sequence
+c:\users\rishi\projects\console-cpp-database\consoleapplication1\source.cpp(544): warning C4129: ' ': unrecognized character escape sequence
+c:\users\rishi\projects\console-cpp-database\consoleapplication1\source.cpp(553): warning C4102: 'loading': unreferenced label
+c:\users\rishi\projects\console-cpp-database\consoleapplication1\source.cpp(685): warning C4102: 'loading': unreferenced label
+c:\users\rishi\projects\console-cpp-database\consoleapplication1\source.cpp(1414): warning C4102: 'loading': unreferenced label
+c:\users\rishi\projects\console-cpp-database\consoleapplication1\source.cpp(1466): warning C4102: 'loading': unreferenced label
+c:\users\rishi\projects\console-cpp-database\consoleapplication1\source.cpp(1557): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rishi\projects\console-cpp-database\consoleapplication1\source.cpp(1618): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rishi\projects\console-cpp-database\consoleapplication1\source.cpp(1622): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rishi\projects\console-cpp-database\consoleapplication1\source.cpp(1677): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rishi\projects\console-cpp-database\consoleapplication1\source.cpp(1724): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rishi\projects\console-cpp-database\consoleapplication1\source.cpp(1740): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\rishi\projects\console-cpp-database\consoleapplication1\source.cpp(2049): warning C4102: 'loading': unreferenced label
+c:\users\rishi\projects\console-cpp-database\consoleapplication1\source.cpp(2135): warning C4102: 'loading': unreferenced label
+  ConsoleApplication1.vcxproj -> C:\Users\rishi\projects\console-cpp-database\x64\Debug\ConsoleApplication1.exe

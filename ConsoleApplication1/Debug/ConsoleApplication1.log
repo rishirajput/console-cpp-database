@@ -1,0 +1,14 @@
+﻿  Source.cpp
+c:\users\rishi\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.cpp(257): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+c:\users\rishi\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.cpp(434): warning C4102: 'loading': unreferenced label
+c:\users\rishi\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.cpp(539): warning C4129: 'C': unrecognized character escape sequence
+c:\users\rishi\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.cpp(544): warning C4129: ' ': unrecognized character escape sequence
+c:\users\rishi\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.cpp(553): warning C4102: 'loading': unreferenced label
+c:\users\rishi\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.cpp(685): warning C4102: 'loading': unreferenced label
+c:\users\rishi\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.cpp(1414): warning C4102: 'loading': unreferenced label
+c:\users\rishi\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.cpp(1466): warning C4102: 'loading': unreferenced label
+c:\users\rishi\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.cpp(1623): warning C4018: '<': signed/unsigned mismatch
+c:\users\rishi\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.cpp(1678): warning C4018: '<': signed/unsigned mismatch
+c:\users\rishi\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.cpp(2049): warning C4102: 'loading': unreferenced label
+c:\users\rishi\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.cpp(2135): warning C4102: 'loading': unreferenced label
+  ConsoleApplication1.vcxproj -> C:\Users\rishi\documents\visual studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.exe
